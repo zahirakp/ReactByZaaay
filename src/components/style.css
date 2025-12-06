@@ -1,0 +1,125 @@
+
+
+.parent{
+    height: 500px;
+    width: 50%;
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+  
+}.child-1{
+    background-color: rgb(201, 138, 61);
+   height: 400px;
+   width: 400px;
+   padding: 10px;
+
+}.chidl-2{
+     background-color: rgb(201, 150, 150);
+   height: 300px;
+   width: 250px;
+      padding: 10px;
+}
+.child-3{
+    background-color: rgb(150, 189, 201);
+   height: 100px;
+   width: 100px;
+      padding: 10px;
+}
+.navbar{
+    background-color: rgba(0, 128, 0, 0.5);
+    padding: 20px;
+}
+.Navbar{
+    height: 40px;
+    background-color: rgba(52, 212, 52, 0.438);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.Navbar .active{
+    background-color: rgba(0, 128, 0, 0.541);
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+}
+.AxiosDivP{
+    background-color: rgba(255, 192, 203, 0.623);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+.AxiosDivC{
+    padding: 30px;
+    width: 130px;
+    background-color: rgba(212, 148, 159, 0.658);
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(207, 37, 94);
+    
+}
+.edit-btn{
+    border: none;
+    background-color: transparent;
+    color: rgb(207, 37, 94);
+    border: 1.5px solid  rgb(238, 134, 152);
+    width: 74px;
+    border-radius: 5px;
+
+}.edit-btn:hover{
+    transition: 1s ease-in-out;
+    background-color:  rgb(238, 134, 152);
+}
+.axiosInputDiv{
+ background-color: rgba(255, 192, 203, 0.623);
+ height: 250px;
+ width: 500px;
+margin-left: 400px;
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ justify-content: center;
+ border-radius: 10px;
+}
+.inp{
+    border: none;
+    width: 400px;
+    height: 35px;
+    background-color: rgba(212, 148, 159, 0.658);
+    border-radius: 6px;
+    text-align: center;
+    border: 1px solid  rgb(238, 134, 152);
+      color: rgb(207, 37, 94);
+    
+}.inp:hover{
+     transition: 1s ease-in-out;
+    background-color:  rgb(238, 134, 152);
+}.add-btn{
+     border: none;
+    background-color: transparent;
+    color: rgb(207, 37, 94);
+    border: 2px solid  rgb(238, 134, 152);
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+}.add-btn:hover{
+      transition: 1s ease-in-out;
+    background-color:  rgb(238, 134, 152);
+}.dlt-Btn{
+    border: none;
+    background-color: transparent;
+    color: rgb(207, 37, 94);
+    border: 1.5px solid  rgb(238, 134, 152);
+    width: 74px;
+    border-radius: 5px;
+ 
+}.dlt-Btn:hover{
+    transition: 1s ease-in-out;
+    background-color:  rgb(238, 134, 152);
+}

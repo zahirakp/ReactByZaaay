@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "sappu",
+      "Mark": 232
+    },
+    {
+      "id": "5",
+      "name": "nidha",
+      "Mark": 29
+    },
+    {
+      "id": "6b6e",
+      "name": "sana",
+      "Mark": 45
+    },
+    {
+      "id": "ec59",
+      "name": "murshi",
+      "Mark": 40
+    },
+    {
+      "id": "a685",
+      "name": "annu",
+      "Mark": 100
+    },
+    {
+      "id": "9811",
+      "name": "zayy",
+      "Mark": 32
+    }
+  ]
+}
